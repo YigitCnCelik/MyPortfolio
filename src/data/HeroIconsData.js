@@ -5,31 +5,19 @@ export const HeroIconsSocial = [
     {
         name:"github",
         class: "icon-1",
-        url: "https://github.com/SofiDevO",
+        url: "https://github.com/YigitCnCelik",
         src: "./svg/github-light.svg"
-    },
-    {
-        name:"alura",
-        class: "icon-2",
-        url: "https://app.aluracursos.com/emprega-one/profile/sofidev",
-        src: "./svg/alura.svg"
     },
     {
         name:"linkedin",
         class: "icon-3",
-        url: "https://www.linkedin.com/in/sofidev/",
+        url: "https://www.linkedin.com/in/yi%C4%9Fit-can-%C3%A7elik-a12622228/",
         src: "./svg/linkedin.svg"
     },
     {
-        name:"platzi",
-        class: "icon-4",
-        url: "https://platzi.com/p/SofiDev/",
-        src: "./svg/platzi.svg"
-    },
-    {
-        name:"youtube",
-        class: "icon-5",
-        url: "https://www.youtube.com/channel/UC36_js-krsAHAEAWpEDhHtw",
-        src: "./svg/youtube-solid.svg"
-    },
+        name:"mail",
+        class: "icon-2",
+        url: "mailto: yigitcancelik03@gmail.com",
+        src: "/svg/mail (1).svg"
+    }
 ]

@@ -4,7 +4,7 @@ import { cardsData } from "../data/skillsMastered";
 const CardSkill = () => {
   return (
     <>
-    <div class="skills__cajas" >
+    <div className="skills__cajas" >
 
       {
       [...cardsData, ...cardsData].map((cardData) => {
