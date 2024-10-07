@@ -3,7 +3,7 @@
 
 This is my first portfolio, built using the Astro framework and incorporating components from React. Feel free to clone this repository and customize it to your liking.
 
-You can check out the live version of this portfolio [here](https://itssofi.dev/).
+You can check out the live version of this portfolio [here](https://www.yigitcancelik.com/).
 
 Don't forget to give this repository a star ⭐ if you find it helpful.
 
