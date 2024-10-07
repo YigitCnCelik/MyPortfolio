@@ -74,19 +74,3 @@ These styles, in turn, use the following color variables:
 ```
 
 Feel free to explore and modify the styles to match your preferences. The color variables provide a convenient way to maintain a consistent color scheme throughout your portfolio.
-
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and share it in accordance with the terms of the license. If you have any questions or need assistance, don't hesitate to reach out.
-
-Happy coding! 🚀
-![image](https://github.com/YigitCnCelik/sofidev-portfolio-astro/assets/102200061/15177113-19c4-4de0-aa90-a4f5a32ef07e)
-
-
-[Visit my website](https://itssofi.dev/)
-
-![image](https://github.com/YigitCnCelik/SofiDev-landingpage/assets/102200061/132c1833-def1-47ab-8a8d-13c5c0499257)
-![image](https://github.com/YigitCnCelik/SofiDev-landingpage/assets/102200061/448f27ea-1efc-4608-a439-2e81cae00fc4)
-
-![image](https://github.com/YigitCnCelik/SofiDev-landingpage/assets/102200061/fcd22a9d-5ff7-4673-a2a6-f51b65e4c213)
-![image](https://github.com/YigitCnCelik/SofiDev-landingpage/assets/102200061/e0ed8666-e6f2-40be-a538-82bd019aa3d0)
