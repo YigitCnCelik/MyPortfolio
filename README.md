@@ -26,7 +26,7 @@ import CardTerminal from "../layouts/CardTerminal.astro";
     </p>
     <p class="terminal__content terminal__content--color">≥ In addition to my technical skills, I have experience in graphic design and UI design.</p>
     <Button
-        href="./docs/Angela_Sofia_Osorio_Cv_2023.pdf"
+        href="./docs/YIGIT_CAN_CELIK_CV_2023.pdf"
         text="Download CV"
         target="_blank"
     />
