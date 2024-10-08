@@ -13,7 +13,7 @@
     skills: ["NodeJs", "Docker"],
     descripcion: " Dockerized Node.js application that allows users to set and track their goals.",
 
-    repoURL: "https://github.com/YigitCnCelik/alura-geek",
+    repoURL: "https://github.com/YigitCnCelik/goals-app",
     anim:"fade-up"
   },
   {
